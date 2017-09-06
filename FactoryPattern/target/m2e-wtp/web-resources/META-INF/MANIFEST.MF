@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: FactoryPatternPOC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pkumar
+Implementation-Vendor-Id: com.pkm.poc
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/FactoryPatte
+ rn/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
